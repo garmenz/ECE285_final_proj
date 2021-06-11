@@ -20,4 +20,4 @@ The problem we try to tackle is that given an image in low information (e.g. obj
 - train
 
 ### Run
-
+train.ipynb
